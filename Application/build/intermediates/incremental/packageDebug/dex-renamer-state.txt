@@ -1,0 +1,7 @@
+#Thu Mar 09 15:14:52 CET 2017
+base.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47f823e282acf4ae8973d5c3e3e41e1e799e3244
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca8417082a1daf10d44be29af0b25cef93ff58f2\\classes.dex
+base.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca8417082a1daf10d44be29af0b25cef93ff58f2
+file.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47f823e282acf4ae8973d5c3e3e41e1e799e3244\\classes.dex

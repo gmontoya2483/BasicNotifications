@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ca8417082a1daf10d44be29af0b25cef93ff58f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\c7e22f6b1cb346006b23ac23d2be908ae58ead8d\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_48a6c53ae29e5a5eedb93aed90125b03f318ce5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\916ff9b0ce80e82088fe13f7e9f063b01ea69e33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_539d92b7a1fe28782741eae2d37634f9fc3aa406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0abd5808579381c760a6edc91bc1ef2f80ed1d3">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_47f823e282acf4ae8973d5c3e3e41e1e799e3244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\55aa32ba12273381da35b0e5de6c234d9ec62bc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db27cd6e2714c83f1f003fb0edceb40c6a20d8be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\e8484e45fd6ac12e42d5348b3ad585f2758d8435\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8a4c6654794416ed222995048d728f251e865f5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\7c03ea933b8718913bdd541773b5ac328f461c01\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3788243661a268786d0a0da7e10fb801c422a3c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\c80a50040c679281722bec27db5379c17e743057\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d59b6eab7b6188b73c122fbd214b031befcbc7a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\c7e22f6b1cb346006b23ac23d2be908ae58ead8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_797ed753e6ac3c7db77d303b1e07377d3620b74d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\55aa32ba12273381da35b0e5de6c234d9ec62bc6\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f134336f270e451ab10e17792b6f7015458dc0bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\e8484e45fd6ac12e42d5348b3ad585f2758d8435\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08e3c9c34b9d9ea1267a44765bae00255f6a817f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\275c6c51b5b0ca9fe088be181e16dc9e427657f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_332ca2c9645bd63a5a5ff0a9e3febf30ba5ce3d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_7f125034ff28da3afff648fb2fb7cc6f9a30749d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\27354cbf60b637a695ba222e4062bebe6c7e6bdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35b480dd0bee247b8b6ad8bd87b5a9a37e18a6cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\c80a50040c679281722bec27db5379c17e743057\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31b994f4f62ee9e897bbf76ba807a08db3a594ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\7c03ea933b8718913bdd541773b5ac328f461c01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_696e03a4c680bc756f34cd085b0b1bdc56a1e7cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\77da3743100cd8b936af41069226354a3fb9140b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26898bb3cbf86dede6d4e10435572a294fbd13d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\1fe696d37ed2e24babfa51037d7b77273527c01d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bcbeb6f8f52d1dfbfb504500436c26619ba2091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\.android\build-cache\d76484a2ed485b4adcb603ef288bec9a475e7cc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88d8897cbe16f93c37f65c4014cd14912398913e\classes.dex" />
+    </item>
+
+</items>
