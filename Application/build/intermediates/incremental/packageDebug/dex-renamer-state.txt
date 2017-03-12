@@ -1,7 +1,7 @@
-#Thu Mar 09 15:14:52 CET 2017
-base.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47f823e282acf4ae8973d5c3e3e41e1e799e3244
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca8417082a1daf10d44be29af0b25cef93ff58f2\\classes.dex
-base.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca8417082a1daf10d44be29af0b25cef93ff58f2
-file.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47f823e282acf4ae8973d5c3e3e41e1e799e3244\\classes.dex
+#Sun Mar 12 20:40:29 CET 2017
+base.0=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bd8ef48ce00019892cc9dc0d0b4bf5b9b0ff9cb4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4292bfd186473e62789199e213d47b5d73cadb72\\classes.dex
+base.1=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4292bfd186473e62789199e213d47b5d73cadb72
+file.0=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bd8ef48ce00019892cc9dc0d0b4bf5b9b0ff9cb4\\classes.dex

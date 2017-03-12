@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\debug\shaders"/></dataSet></merger>

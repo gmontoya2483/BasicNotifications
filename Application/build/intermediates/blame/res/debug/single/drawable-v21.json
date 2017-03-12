@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

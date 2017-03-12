@@ -1,42 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\anim\\abc_popup_exit.xml"
     }
 ]

@@ -553,6 +553,8 @@ int drawable notification_template_icon_low_bg 0x7f020061
 int drawable notification_tile_bg 0x7f02005d
 int drawable notify_panel_notification_icon_bg 0x7f02005e
 int drawable tile 0x7f02005f
+int id ActionsButton 0x7f0a007d
+int id BasicButton 0x7f0a007c
 int id action0 0x7f0a0066
 int id action_bar 0x7f0a0054
 int id action_bar_activity_content 0x7f0a0000
@@ -580,7 +582,6 @@ int id alignMargins 0x7f0a001d
 int id always 0x7f0a002e
 int id beginning 0x7f0a002c
 int id bottom 0x7f0a001e
-int id button 0x7f0a007c
 int id buttonPanel 0x7f0a003d
 int id cancel_action 0x7f0a0067
 int id center 0x7f0a001f

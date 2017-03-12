@@ -73,8 +73,6 @@ In general the adb tool is located in ´´´C:\ Users\XXXXX\AppData\Local\Androi
 
 
 
-
-
 Screenshots
 -------------
 

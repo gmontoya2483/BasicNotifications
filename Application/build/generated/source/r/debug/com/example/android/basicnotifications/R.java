@@ -2059,6 +2059,8 @@ containing a value of this type.
         public static final int tile=0x7f02005f;
     }
     public static final class id {
+        public static final int ActionsButton=0x7f0a007d;
+        public static final int BasicButton=0x7f0a007c;
         public static final int action0=0x7f0a0066;
         public static final int action_bar=0x7f0a0054;
         public static final int action_bar_activity_content=0x7f0a0000;
@@ -2086,7 +2088,6 @@ containing a value of this type.
         public static final int always=0x7f0a002e;
         public static final int beginning=0x7f0a002c;
         public static final int bottom=0x7f0a001e;
-        public static final int button=0x7f0a007c;
         public static final int buttonPanel=0x7f0a003d;
         public static final int cancel_action=0x7f0a0067;
         public static final int center=0x7f0a001f;

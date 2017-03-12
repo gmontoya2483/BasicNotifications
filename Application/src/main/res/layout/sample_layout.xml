@@ -31,12 +31,33 @@ limitations under the License.
         android:layout_gravity="fill_vertical"
         android:layout_weight="1"/>
 
-    <Button
-        android:layout_width="wrap_content"
+
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Do it!"
-        android:id="@+id/button"
-        android:layout_gravity="center"
-        android:onClick="sendNotification"/>
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Basic Notificarion!"
+            android:id="@+id/BasicButton"
+            android:layout_gravity="center"
+            android:onClick="sendBasicNotification"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Actions Notificarion!"
+            android:id="@+id/ActionsButton"
+            android:layout_gravity="center"
+            android:onClick="sendAccionsNotification"/>
+
+
+
+
+    </LinearLayout>
+
+
 
 </LinearLayout>

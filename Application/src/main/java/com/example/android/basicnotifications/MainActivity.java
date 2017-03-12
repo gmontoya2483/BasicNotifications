@@ -19,7 +19,8 @@ public class MainActivity extends Activity {
      * This value needs to be unique within this app, but it doesn't need to be
      * unique system-wide.
      */
-    public static final int NOTIFICATION_ID = 1;
+    public static final int BASIC_NOTIFICATION_ID = 1;
+    public static final int ACTIONS_NOTIFICATION_ID=2;
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,15 +31,14 @@ public class MainActivity extends Activity {
     /**
      * Send a sample notification using the NotificationCompat API.
      */
-    public void sendNotification(View view) {
+    public void sendBasicNotification(View view) {
 
         // BEGIN_INCLUDE(build_action)
         /** Create an intent that will be fired when the user clicks the notification.
          * The intent needs to be packaged into a {@link android.app.PendingIntent} so that the
          * notification service can fire it on our behalf.
          */
-        Intent intent = new Intent(Intent.ACTION_VIEW,
-                Uri.parse("http://developer.android.com/reference/android/app/Notification.html"));
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://developer.android.com/reference/android/app/Notification.html"));
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, 0);
         // END_INCLUDE(build_action)
 
@@ -99,7 +99,47 @@ public class MainActivity extends Activity {
         //for adding Android wear functionality the line above have to be changed by:
         NotificationManagerCompat notificationManager= NotificationManagerCompat.from(getApplicationContext());
 
-        notificationManager.notify(NOTIFICATION_ID, builder.build());
+        notificationManager.notify(BASIC_NOTIFICATION_ID, builder.build());
         // END_INCLUDE(send_notification)
     }
+
+
+
+    public void sendAccionsNotification(View view) {
+
+        String location="Vienna";
+
+
+
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://developer.android.com/reference/android/app/Notification.html"));
+        PendingIntent viewPendingIntent = PendingIntent.getActivity(this, 0, intent, 0);
+
+
+
+        Intent mapIntent = new Intent(Intent.ACTION_VIEW);
+        Uri geoUri = Uri.parse("geo:0,0?q=" + Uri.encode(location));
+        mapIntent.setData(geoUri);
+        PendingIntent mapPendingIntent =PendingIntent.getActivity(this, 0, mapIntent, 0);
+
+
+
+        NotificationCompat.Builder notificationBuilder =
+                new NotificationCompat.Builder(this)
+                        .setSmallIcon(R.drawable.ic_stat_notification)
+                        .setContentTitle("Notication with actions")
+                        .setContentText("This is a notification which has an action")
+                        .setContentIntent(viewPendingIntent)
+                        .addAction(R.drawable.ic_launcher, "Mapa" ,mapPendingIntent);
+
+
+        NotificationManagerCompat notificationManager= NotificationManagerCompat.from(getApplicationContext());
+
+        notificationManager.notify(ACTIONS_NOTIFICATION_ID, notificationBuilder.build());
+
+
+    }
+
+
+
+
 }
