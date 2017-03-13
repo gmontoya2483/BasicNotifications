@@ -1,73 +1,73 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:18:1-40:12
+ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:18:1-40:12
 	package
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:19:5-53
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:19:5-53
 	android:versionName
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:21:5-30
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:20:5-28
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:25:5-38:19
-MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\Gabriel\.android\build-cache\8de28ad535599bf6efc38b72b5d7d0131c77c0a8\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Gabriel\.android\build-cache\102183cf8abec050f218e3d2fcd3f39c0bd04790\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Gabriel\.android\build-cache\5b06cabd5a57f95df936d569dc90c66449952342\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Gabriel\.android\build-cache\7c3a6aaafae96ff107969223ec64d7aa65aa670c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Gabriel\.android\build-cache\cb15b6c28a7153f16c129cf4440463db00ecb65c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Gabriel\.android\build-cache\e102c79d3c0b009fc03d7bfa8ca5dcc269a05694\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Gabriel\.android\build-cache\219dbbcde532370f235f7c0081d92fb5fb817a29\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Gabriel\.android\build-cache\2a5611425ae115b7d6fff34b53ed8f0fabdad046\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Gabriel\.android\build-cache\6e8e432e51cd090d02a2595daceb10cd9427f688\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Gabriel\.android\build-cache\6508efeb97706e508965185de1548e9ceb6b7b1d\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Gabriel\.android\build-cache\65801ee74bf7eb17ce53c9bd793d1fe075cc3f07\output\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:25:5-38:19
+MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\montoya\.android\build-cache\275c6c51b5b0ca9fe088be181e16dc9e427657f3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\montoya\.android\build-cache\77da3743100cd8b936af41069226354a3fb9140b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\montoya\.android\build-cache\d76484a2ed485b4adcb603ef288bec9a475e7cc4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\montoya\.android\build-cache\1fe696d37ed2e24babfa51037d7b77273527c01d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\montoya\.android\build-cache\e8484e45fd6ac12e42d5348b3ad585f2758d8435\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\montoya\.android\build-cache\55aa32ba12273381da35b0e5de6c234d9ec62bc6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\montoya\.android\build-cache\7c03ea933b8718913bdd541773b5ac328f461c01\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\montoya\.android\build-cache\c80a50040c679281722bec27db5379c17e743057\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\montoya\.android\build-cache\916ff9b0ce80e82088fe13f7e9f063b01ea69e33\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\montoya\.android\build-cache\27354cbf60b637a695ba222e4062bebe6c7e6bdd\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\montoya\.android\build-cache\c7e22f6b1cb346006b23ac23d2be908ae58ead8d\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:28:9-41
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:28:9-41
 	android:allowBackup
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:26:9-35
 	android:icon
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:27:9-45
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:27:9-45
 	android:theme
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:29:9-40
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:29:9-40
 activity#com.example.android.basicnotifications.MainActivity
-ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:30:9-37:20
+ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:30:9-37:20
 	android:label
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:32:13-45
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:32:13-45
 	android:name
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:31:13-41
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:31:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:33:13-36:29
+ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:34:17-68
+ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:35:17-76
+ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:35:17-76
 	android:name
-		ADDED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\Gabriel\.android\build-cache\8de28ad535599bf6efc38b72b5d7d0131c77c0a8\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Gabriel\.android\build-cache\102183cf8abec050f218e3d2fcd3f39c0bd04790\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Gabriel\.android\build-cache\5b06cabd5a57f95df936d569dc90c66449952342\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Gabriel\.android\build-cache\7c3a6aaafae96ff107969223ec64d7aa65aa670c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Gabriel\.android\build-cache\cb15b6c28a7153f16c129cf4440463db00ecb65c\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Gabriel\.android\build-cache\e102c79d3c0b009fc03d7bfa8ca5dcc269a05694\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Gabriel\.android\build-cache\219dbbcde532370f235f7c0081d92fb5fb817a29\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Gabriel\.android\build-cache\2a5611425ae115b7d6fff34b53ed8f0fabdad046\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Gabriel\.android\build-cache\6e8e432e51cd090d02a2595daceb10cd9427f688\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Gabriel\.android\build-cache\6508efeb97706e508965185de1548e9ceb6b7b1d\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Gabriel\.android\build-cache\65801ee74bf7eb17ce53c9bd793d1fe075cc3f07\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\montoya\.android\build-cache\275c6c51b5b0ca9fe088be181e16dc9e427657f3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\montoya\.android\build-cache\77da3743100cd8b936af41069226354a3fb9140b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\montoya\.android\build-cache\d76484a2ed485b4adcb603ef288bec9a475e7cc4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\montoya\.android\build-cache\1fe696d37ed2e24babfa51037d7b77273527c01d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\montoya\.android\build-cache\e8484e45fd6ac12e42d5348b3ad585f2758d8435\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\montoya\.android\build-cache\55aa32ba12273381da35b0e5de6c234d9ec62bc6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\montoya\.android\build-cache\7c03ea933b8718913bdd541773b5ac328f461c01\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\montoya\.android\build-cache\c80a50040c679281722bec27db5379c17e743057\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\montoya\.android\build-cache\916ff9b0ce80e82088fe13f7e9f063b01ea69e33\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\montoya\.android\build-cache\27354cbf60b637a695ba222e4062bebe6c7e6bdd\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\montoya\.android\build-cache\c7e22f6b1cb346006b23ac23d2be908ae58ead8d\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Gabriel\.android\build-cache\5b06cabd5a57f95df936d569dc90c66449952342\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\montoya\.android\build-cache\d76484a2ed485b4adcb603ef288bec9a475e7cc4\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\src\main\AndroidManifest.xml

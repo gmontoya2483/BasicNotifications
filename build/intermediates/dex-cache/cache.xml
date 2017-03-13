@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="71b4aeb36be04cf44f1e89eee9c2dd4109171c24">
-        <dex dex="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4292bfd186473e62789199e213d47b5d73cadb72\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bd8ef48ce00019892cc9dc0d0b4bf5b9b0ff9cb4\classes.dex" />
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ca8417082a1daf10d44be29af0b25cef93ff58f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d7d01cca6847b3574dccb26e0b9d2d2d640be9e">
+        <dex dex="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_47f823e282acf4ae8973d5c3e3e41e1e799e3244\classes.dex" />
     </item>
 
 </items>

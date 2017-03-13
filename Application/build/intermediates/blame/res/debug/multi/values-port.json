@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\BasicNotifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\BasicNotifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\.android\\build-cache\\5b06cabd5a57f95df936d569dc90c66449952342\\output\\res\\values-port\\values-port.xml",
+                    "file": "C:\\Users\\montoya\\.android\\build-cache\\d76484a2ed485b4adcb603ef288bec9a475e7cc4\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

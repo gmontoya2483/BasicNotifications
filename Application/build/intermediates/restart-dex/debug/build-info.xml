@@ -2,104 +2,85 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="22"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1489347622041"
-    token="-1277938499568279538"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="1489411238022"
+    token="4650020188295713859"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="916" />
+        duration="644" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="105" />
+        duration="41" />
     <task
         name="verifier"
-        duration="81" />
+        duration="42" />
 
     <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\outputs\apk\Application-debug.apk"
+        location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\outputs\apk\Application-debug.apk"
         type="SPLIT_MAIN" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1489347622041"
+        timestamp="1489409306673"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\outputs\apk\Application-debug.apk"
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\outputs\apk\Application-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1489411238022"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\outputs\apk\Application-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

@@ -2061,6 +2061,7 @@ containing a value of this type.
     public static final class id {
         public static final int ActionsButton=0x7f0a007d;
         public static final int BasicButton=0x7f0a007c;
+        public static final int WeareableActionsButton=0x7f0a007e;
         public static final int action0=0x7f0a0066;
         public static final int action_bar=0x7f0a0054;
         public static final int action_bar_activity_content=0x7f0a0000;
