@@ -38,6 +38,8 @@ Screenshots
 -------------
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/background.png" height="400" alt="Screenshot"/>
+<img src="screenshots/wearableAction.png" height="400" alt="Screenshot"/>
 
 Examples
 --------
