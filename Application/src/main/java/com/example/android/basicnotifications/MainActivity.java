@@ -1,8 +1,10 @@
 package com.example.android.basicnotifications;
 
 import android.app.Activity;
+import android.app.Notification;
 import android.app.PendingIntent;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
@@ -22,6 +24,9 @@ public class MainActivity extends Activity {
     public static final int BASIC_NOTIFICATION_ID = 1;
     public static final int ACTIONS_NOTIFICATION_ID=2;
     public static final int WEAREABLE_ACTION_NOTIFICATION_ID=3;
+    public static final int BIG_STYLE_ACTION_NOTIFICATION_ID=4;
+    public static final int BACKGROUND_ACTION_NOTIFICATION_ID=5;
+    public static final int PAGES_ACTION_NOTIFICATION_ID=6;
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,74 +39,23 @@ public class MainActivity extends Activity {
      */
     public void sendBasicNotification(View view) {
 
-        // BEGIN_INCLUDE(build_action)
-        /** Create an intent that will be fired when the user clicks the notification.
-         * The intent needs to be packaged into a {@link android.app.PendingIntent} so that the
-         * notification service can fire it on our behalf.
-         */
+
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://developer.android.com/reference/android/app/Notification.html"));
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, 0);
-        // END_INCLUDE(build_action)
 
-        // BEGIN_INCLUDE (build_notification)
-        /**
-         * Use NotificationCompat.Builder to set up our notification.
-         */
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
-
-        /** Set the icon that will appear in the notification bar. This icon also appears
-         * in the lower right hand corner of the notification itself.
-         *
-         * Important note: although you can use any drawable as the small icon, Android
-         * design guidelines state that the icon should be simple and monochrome. Full-color
-         * bitmaps or busy images don't render well on smaller screens and can end up
-         * confusing the user.
-         */
         builder.setSmallIcon(R.drawable.ic_stat_notification);
-
-        // Set the intent that will fire when the user taps the notification.
         builder.setContentIntent(pendingIntent);
-
-        // Set the notification to auto-cancel. This means that the notification will disappear
-        // after the user taps it, rather than remaining until it's explicitly dismissed.
         builder.setAutoCancel(true);
-
-        /**
-         *Build the notification's appearance.
-         * Set the large icon, which appears on the left of the notification. In this
-         * sample we'll set the large icon to be the same as our app icon. The app icon is a
-         * reasonable default if you don't have anything more compelling to use as an icon.
-         */
         builder.setLargeIcon(BitmapFactory.decodeResource(getResources(), R.drawable.ic_launcher));
-
-        /**
-         * Set the text of the notification. This sample sets the three most commononly used
-         * text areas:
-         * 1. The content title, which appears in large type at the top of the notification
-         * 2. The content text, which appears in smaller text below the title
-         * 3. The subtext, which appears under the text on newer devices. Devices running
-         *    versions of Android prior to 4.2 will ignore this field, so don't use it for
-         *    anything vital!
-         */
         builder.setContentTitle("BasicNotifications Sample");
         builder.setContentText("Time to learn about notifications!");
         builder.setSubText("Tap to view documentation about notifications.");
 
-        // END_INCLUDE (build_notification)
 
-        // BEGIN_INCLUDE(send_notification)
-        /**
-         * Send the notification. This will immediately display the notification icon in the
-         * notification bar.
-         */
-
-        //Standard notification line
-        //NotificationManager notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
-        //for adding Android wear functionality the line above have to be changed by:
         NotificationManagerCompat notificationManager= NotificationManagerCompat.from(getApplicationContext());
-
         notificationManager.notify(BASIC_NOTIFICATION_ID, builder.build());
-        // END_INCLUDE(send_notification)
+
     }
 
 
@@ -146,15 +100,10 @@ public class MainActivity extends Activity {
     public void sendWeareableActionNotification(View view){
 
         // when a wearable sepcific action is added  the regular added action are shown only in the phone and the wereable specific action are shown only on the wereable.
-
-
         String location="Vienna";
-
-
 
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://developer.android.com/reference/android/app/Notification.html"));
         PendingIntent viewPendingIntent = PendingIntent.getActivity(this, 0, intent, 0);
-
 
         //Intent fpr triggering the actions
         Intent mapIntent = new Intent(Intent.ACTION_VIEW);
@@ -162,12 +111,8 @@ public class MainActivity extends Activity {
         mapIntent.setData(geoUri);
         PendingIntent mapPendingIntent =PendingIntent.getActivity(this, 0, mapIntent, 0);
 
-
-
         // Create an action for the weareable
         NotificationCompat.Action action= new NotificationCompat.Action.Builder(R.drawable.ic_launcher, "Weareable action",mapPendingIntent).build();
-
-
 
         NotificationCompat.Builder notificationBuilder =
                 new NotificationCompat.Builder(this)
@@ -182,6 +127,92 @@ public class MainActivity extends Activity {
         NotificationManagerCompat notificationManager= NotificationManagerCompat.from(getApplicationContext());
 
         notificationManager.notify(WEAREABLE_ACTION_NOTIFICATION_ID, notificationBuilder.build());
+
+    }
+
+
+
+    public void sendBigStyleNotification (View view){
+
+
+        NotificationCompat.BigTextStyle bigStyle= new NotificationCompat.BigTextStyle();
+        bigStyle.bigText("Big text event descrption. To show additional information");
+
+        NotificationCompat.Builder builder = new NotificationCompat.Builder(this)
+                .setSmallIcon(R.drawable.ic_stat_notification)
+                .setContentTitle("Notication with actions")
+                .setSmallIcon(R.drawable.ic_stat_notification)
+                .setContentText("This is a notification which has an action")
+                .setStyle(bigStyle);
+
+
+        NotificationManagerCompat notificationManager= NotificationManagerCompat.from(getApplicationContext());
+        notificationManager.notify(BIG_STYLE_ACTION_NOTIFICATION_ID, builder.build());
+
+    }
+
+
+
+
+    public void sendBackgroundNotification (View view){
+
+        Bitmap bitmap=BitmapFactory.decodeResource(getResources(),R.drawable.background_400);
+
+
+        //Create a WearableExtender to add functionality for wearables
+        NotificationCompat.WearableExtender wearableExtender= new NotificationCompat.WearableExtender()
+                .setHintHideIcon(true)
+                .setBackground (bitmap);
+
+
+        NotificationCompat.Builder builder = new NotificationCompat.Builder(this)
+                .setSmallIcon(R.drawable.ic_stat_notification)
+                .setContentTitle("Notication with actions")
+                .setSmallIcon(R.drawable.ic_stat_notification)
+                .setContentText("This is a notification which has an action")
+                .extend(wearableExtender);
+
+
+        NotificationManagerCompat notificationManager= NotificationManagerCompat.from(getApplicationContext());
+        notificationManager.notify(BACKGROUND_ACTION_NOTIFICATION_ID, builder.build());
+
+
+    }
+
+
+    public void sendPagesNotification(View view){
+
+
+        // create a big style for the second page
+        NotificationCompat.BigTextStyle secondPageStyle= new NotificationCompat.BigTextStyle();
+        secondPageStyle.setBigContentTitle("Page 2");
+        secondPageStyle.bigText("This is the text which is going to be displayed in the second page. Usually it must have a lot of text....");
+
+        // Create the builder for the second page
+        Notification secondPageNotification= new NotificationCompat.Builder(this)
+                .setStyle(secondPageStyle)
+                .build();
+
+
+        //Create the wearable extender which has the second page
+        NotificationCompat.WearableExtender wearableExtender= new NotificationCompat.WearableExtender()
+                .addPage (secondPageNotification);
+
+
+        //Create the builder for the main notification
+        NotificationCompat.Builder mainBuilder = new NotificationCompat.Builder(this)
+                .setSmallIcon(R.drawable.ic_stat_notification)
+                .setContentTitle("Page 1")
+                .setSmallIcon(R.drawable.ic_stat_notification)
+                .setContentText("This is a notification which has a second page")
+                .extend(wearableExtender);
+
+
+
+        //Issue the notification
+        NotificationManagerCompat notificationManager= NotificationManagerCompat.from(getApplicationContext());
+        notificationManager.notify(PAGES_ACTION_NOTIFICATION_ID, mainBuilder.build());
+
 
     }
 

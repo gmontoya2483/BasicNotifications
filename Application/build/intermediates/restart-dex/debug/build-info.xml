@@ -6,22 +6,22 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1489411238022"
+    timestamp="1489499242647"
     token="4650020188295713859"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="644" />
+        duration="426" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="41" />
+        duration="50" />
     <task
         name="verifier"
-        duration="42" />
+        duration="17" />
 
     <artifact
         location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -32,13 +32,10 @@
 
     <build
         build-mode="FULL"
-        timestamp="1489409306673"
+        timestamp="1489485261382"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -47,19 +44,22 @@
             location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -73,7 +73,15 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1489411238022"
+        timestamp="1489495238238"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1489499242647"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\montoya\Documents\Android\Udacity\BasicNotifications\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
